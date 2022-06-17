@@ -1,6 +1,6 @@
 # notion-py
 
-Unofficial Python 3 client for Notion.so API v3.
+Python 3 client for Notion.so API v3.
 
 - Object-oriented interface (mapping database tables to Python classes/attributes)
 - Automatic conversion between internal Notion formats and appropriate Python objects
